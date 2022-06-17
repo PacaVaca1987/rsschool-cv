@@ -44,7 +44,8 @@ body
     {
         text-align: center;
     }
-    .nav {
+    .flex-container 
+    {
         display: flex;
         align-items: flex-start;
         flex-wrap: nowrap;
