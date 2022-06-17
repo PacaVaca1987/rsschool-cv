@@ -42,7 +42,12 @@ body
     }
     .footer
     {
-        text-align: center;
+       display: flex;
+        flex-flow: row wrap;
+        justify-content: space-around;
+        padding: 20%;
+        margin: 0;
+        list-style: none
     }
     .flex-container 
     {
