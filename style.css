@@ -57,7 +57,7 @@ body
 .nav-list 
     {
     display: flex;
-    justify-content: flex-center;
+    justify-content: row wrap;
     align-items: center;
     list-style: none;
     color: #0f0e0e;
