@@ -2,7 +2,7 @@
 {
     font-family: 'Lobster', cursive;
     color: green;
-    font-size: 40px;
+    font-size: 80px;
     text-align: center;
     
 }
@@ -29,7 +29,7 @@ body
     max-width: 1000px;
     margin: auto;
     font-family: 'Roboto', sans-serif;
-    font-size: 60px;
+    font-size: 80px;
     font-weight: 40;
     line-height: 2;
     color: #a87932;
