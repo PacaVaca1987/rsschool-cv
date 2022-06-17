@@ -46,10 +46,9 @@ body
     }
     .nav {
         display: flex;
-        flex-wrap: wrap;
-        justify-content: space-around;
-        list-style: none;
-        
+        align-items: flex-start;
+        flex-wrap: nowrap;
+        height: 100%;       
     }
 
 .nav-list 
