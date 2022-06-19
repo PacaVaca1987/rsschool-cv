@@ -52,7 +52,7 @@ body
     .flex-container 
     {
         display: flex;
-        flex-flow: row wrap;
+        flex-wrap: nowrap;
         justify-content: space-around;
         padding: 2px;
         margin: 0;
